@@ -5,7 +5,7 @@ To_Watch_App
 
 To Watch App
 
-The To Watch App is a web application built with React. It allows users to keep track of movies and TV shows they want to watch.
+ To Watch App is a web application built with React. It allows users to keep track of movies and TV shows they want to watch.
 
 Table of Contents
 
