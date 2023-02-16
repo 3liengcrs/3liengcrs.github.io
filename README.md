@@ -41,11 +41,18 @@ Credits
 The To Watch App uses the following third-party libraries and resources:
 
 React
+
 React Context
+
 react-axios
+
 React Router
+
 The Movie Database API ___omdbapi
+
 JSON to store__localstorage
+
+
 JAVASCRIPT
 CSS
 HTML
