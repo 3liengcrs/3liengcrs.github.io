@@ -1,0 +1,17 @@
+
+  
+  .add-content .input-content input {
+    margin-top: 100px;
+    width: 30%;
+    margin-left: 32%;
+    background-color: rgba(180, 207, 195, 0.411);
+    padding: 10px;
+    border-radius: 20px;
+    color: rgb(46, 83, 62);
+    font-size: 1.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: rgb(176, 214, 192);
+    /* border-style: none; */
+  }
